@@ -2,13 +2,15 @@ body {
     text-align: center;
     font-family: Arial;
     color: red;
+    
 }
 #container
 {
     width: 70%;
-    padding: 0px 0px 10px 0px;
+    padding: 0px 0px 0px 0px;
     text-align: center;
     border: 2px solid #ddd;
+
 }
 
 #container h1 {
@@ -18,7 +20,7 @@ body {
 }
 #container p{
     padding: 0px 10%;
-
+    
 }
 #cabecera {
     background: #053174;
@@ -30,6 +32,12 @@ body {
     font-weight: bold;
 }
 
+#footer {
+    background-color: rgb(109, 109, 109);
+    padding: 8px;
+    margin: 0px;
+    color: white;
+}
 #cabecera #tagline {
     font-size: 20px;
     text-align: center;
