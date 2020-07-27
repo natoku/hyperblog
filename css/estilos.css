@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: Arial;
-    color: red;
+    color: #333;
 }
 #container
 {
@@ -21,7 +21,7 @@ body {
 
 }
 #cabecera {
-    background: #053174;
+    background: #4c6ae6;
     color: white;
     text-align: left;
     font-size: 35px;
@@ -34,4 +34,10 @@ body {
     font-size: 20px;
     text-align: center;
     margin: auto 50px;
+}
+#logo {
+    height: 50px;
+    width: 50px; 
+    /*margin: 0px 0px -60px 0px;*/
+    vertical-align: middle;
 }
