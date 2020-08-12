@@ -5,7 +5,7 @@ Un blog increible para el curso de Git y Github en Platzi.
 
 Es un curso super interesante ya que Git y Github son genmiales y si los aprendes a usar correctamente, puedes hacer cosas super ordenadas y super rapidas. 
 
-###En este curso vimos: 
+### En este curso vimos: 
 - Todos los comandos de Git
 - El flujo de trabajo en Git y Github
 - El amor por las buenas Practicas
