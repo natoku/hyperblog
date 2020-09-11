@@ -2,6 +2,6 @@ Esta es la historia de Ignacio.
 Tiene 29 años, nacio en Argentina. Actualmente vive en Italia.
 Se quiere mudar a España. 
 
-Master 1 (rebase)
+Master 1 (rebase, prueba)
 
 Mañana nos enfocaremos en lo aprendido. 
